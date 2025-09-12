@@ -1,0 +1,1045 @@
+[
+  {
+    "id": 1,
+    "amount": 421,
+    "category": "transport",
+    "note": "Bus fare",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 2,
+    "amount": 950,
+    "category": "transport",
+    "note": "Bus fare",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 3,
+    "amount": 56,
+    "category": "transport",
+    "note": "Taxi",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 4,
+    "amount": 765,
+    "category": "transport",
+    "note": "Taxi",
+    "date": "2025-07-14"
+  },
+  {
+    "id": 5,
+    "amount": 246,
+    "category": "bills",
+    "note": "Internet",
+    "date": "2025-07-14"
+  },
+  {
+    "id": 6,
+    "amount": 159,
+    "category": "food",
+    "note": "Coffee",
+    "date": "2025-07-15"
+  },
+  {
+    "id": 7,
+    "amount": 478,
+    "category": "bills",
+    "note": "Water",
+    "date": "2025-07-15"
+  },
+  {
+    "id": 8,
+    "amount": 848,
+    "category": "shopping",
+    "note": "Groceries",
+    "date": "2025-07-16"
+  },
+  {
+    "id": 9,
+    "amount": 442,
+    "category": "food",
+    "note": "Snacks",
+    "date": "2025-07-17"
+  },
+  {
+    "id": 10,
+    "amount": 783,
+    "category": "bills",
+    "note": "Water",
+    "date": "2025-07-17"
+  },
+  {
+    "id": 11,
+    "amount": 231,
+    "category": "food",
+    "note": "Breakfast",
+    "date": "2025-07-18"
+  },
+  {
+    "id": 12,
+    "amount": 569,
+    "category": "entertainment",
+    "note": "Concert",
+    "date": "2025-07-18"
+  },
+  {
+    "id": 13,
+    "amount": 501,
+    "category": "shopping",
+    "note": "Stationery",
+    "date": "2025-07-18"
+  },
+  {
+    "id": 14,
+    "amount": 654,
+    "category": "entertainment",
+    "note": "Movie",
+    "date": "2025-07-19"
+  },
+  {
+    "id": 15,
+    "amount": 951,
+    "category": "transport",
+    "note": "Metro",
+    "date": "2025-07-19"
+  },
+  {
+    "id": 16,
+    "amount": 802,
+    "category": "shopping",
+    "note": "Clothes",
+    "date": "2025-07-19"
+  },
+  {
+    "id": 17,
+    "amount": 573,
+    "category": "entertainment",
+    "note": "Games",
+    "date": "2025-07-19"
+  },
+  {
+    "id": 18,
+    "amount": 150,
+    "category": "bills",
+    "note": "Water",
+    "date": "2025-07-20"
+  },
+  {
+    "id": 19,
+    "amount": 518,
+    "category": "other",
+    "note": "Donation",
+    "date": "2025-07-20"
+  },
+  {
+    "id": 20,
+    "amount": 472,
+    "category": "other",
+    "note": "Gift",
+    "date": "2025-07-21"
+  },
+  {
+    "id": 21,
+    "amount": 689,
+    "category": "food",
+    "note": "Lunch",
+    "date": "2025-07-21"
+  },
+  {
+    "id": 22,
+    "amount": 401,
+    "category": "transport",
+    "note": "Metro",
+    "date": "2025-07-21"
+  },
+  {
+    "id": 23,
+    "amount": 397,
+    "category": "transport",
+    "note": "Bus fare",
+    "date": "2025-07-22"
+  },
+  {
+    "id": 24,
+    "amount": 570,
+    "category": "food",
+    "note": "Lunch",
+    "date": "2025-07-22"
+  },
+  {
+    "id": 25,
+    "amount": 285,
+    "category": "bills",
+    "note": "Internet",
+    "date": "2025-07-22"
+  },
+  {
+    "id": 26,
+    "amount": 669,
+    "category": "shopping",
+    "note": "Shoes",
+    "date": "2025-07-22"
+  },
+  {
+    "id": 27,
+    "amount": 272,
+    "category": "shopping",
+    "note": "Shoes",
+    "date": "2025-07-23"
+  },
+  {
+    "id": 28,
+    "amount": 554,
+    "category": "transport",
+    "note": "Metro",
+    "date": "2025-07-23"
+  },
+  {
+    "id": 29,
+    "amount": 791,
+    "category": "food",
+    "note": "Snacks",
+    "date": "2025-07-24"
+  },
+  {
+    "id": 30,
+    "amount": 405,
+    "category": "other",
+    "note": "Donation",
+    "date": "2025-07-24"
+  },
+  {
+    "id": 31,
+    "amount": 581,
+    "category": "other",
+    "note": "Miscellaneous",
+    "date": "2025-07-24"
+  },
+  {
+    "id": 32,
+    "amount": 691,
+    "category": "entertainment",
+    "note": "Streaming",
+    "date": "2025-07-25"
+  },
+  {
+    "id": 33,
+    "amount": 104,
+    "category": "shopping",
+    "note": "Clothes",
+    "date": "2025-07-25"
+  },
+  {
+    "id": 34,
+    "amount": 122,
+    "category": "entertainment",
+    "note": "Movie",
+    "date": "2025-07-25"
+  },
+  {
+    "id": 35,
+    "amount": 105,
+    "category": "transport",
+    "note": "Taxi",
+    "date": "2025-07-26"
+  },
+  {
+    "id": 36,
+    "amount": 146,
+    "category": "food",
+    "note": "Snacks",
+    "date": "2025-07-26"
+  },
+  {
+    "id": 37,
+    "amount": 602,
+    "category": "transport",
+    "note": "Bus fare",
+    "date": "2025-07-26"
+  },
+  {
+    "id": 38,
+    "amount": 368,
+    "category": "bills",
+    "note": "Electricity",
+    "date": "2025-07-27"
+  },
+  {
+    "id": 39,
+    "amount": 820,
+    "category": "shopping",
+    "note": "Groceries",
+    "date": "2025-07-28"
+  },
+  {
+    "id": 40,
+    "amount": 289,
+    "category": "entertainment",
+    "note": "Streaming",
+    "date": "2025-07-29"
+  },
+  {
+    "id": 41,
+    "amount": 826,
+    "category": "food",
+    "note": "Dinner",
+    "date": "2025-07-30"
+  },
+  {
+    "id": 42,
+    "amount": 74,
+    "category": "food",
+    "note": "Breakfast",
+    "date": "2025-07-30"
+  },
+  {
+    "id": 43,
+    "amount": 747,
+    "category": "entertainment",
+    "note": "Concert",
+    "date": "2025-07-30"
+  },
+  {
+    "id": 44,
+    "amount": 853,
+    "category": "food",
+    "note": "Coffee",
+    "date": "2025-07-30"
+  },
+  {
+    "id": 45,
+    "amount": 186,
+    "category": "transport",
+    "note": "Fuel",
+    "date": "2025-07-31"
+  },
+  {
+    "id": 46,
+    "amount": 290,
+    "category": "other",
+    "note": "Donation",
+    "date": "2025-07-31"
+  },
+  {
+    "id": 47,
+    "amount": 922,
+    "category": "bills",
+    "note": "Internet",
+    "date": "2025-07-31"
+  },
+  {
+    "id": 48,
+    "amount": 159,
+    "category": "food",
+    "note": "Snacks",
+    "date": "2025-08-01"
+  },
+  {
+    "id": 49,
+    "amount": 211,
+    "category": "other",
+    "note": "Miscellaneous",
+    "date": "2025-08-01"
+  },
+  {
+    "id": 50,
+    "amount": 350,
+    "category": "food",
+    "note": "Lunch",
+    "date": "2025-08-01"
+  },
+  {
+    "id": 51,
+    "amount": 355,
+    "category": "transport",
+    "note": "Taxi",
+    "date": "2025-08-01"
+  },
+  {
+    "id": 52,
+    "amount": 142,
+    "category": "bills",
+    "note": "Water",
+    "date": "2025-08-02"
+  },
+  {
+    "id": 53,
+    "amount": 558,
+    "category": "entertainment",
+    "note": "Games",
+    "date": "2025-08-02"
+  },
+  {
+    "id": 54,
+    "amount": 23,
+    "category": "shopping",
+    "note": "Shoes",
+    "date": "2025-08-02"
+  },
+  {
+    "id": 55,
+    "amount": 888,
+    "category": "entertainment",
+    "note": "Games",
+    "date": "2025-08-03"
+  },
+  {
+    "id": 56,
+    "amount": 73,
+    "category": "entertainment",
+    "note": "Concert",
+    "date": "2025-08-03"
+  },
+  {
+    "id": 57,
+    "amount": 751,
+    "category": "transport",
+    "note": "Taxi",
+    "date": "2025-08-03"
+  },
+  {
+    "id": 58,
+    "amount": 327,
+    "category": "other",
+    "note": "Donation",
+    "date": "2025-08-04"
+  },
+  {
+    "id": 59,
+    "amount": 372,
+    "category": "shopping",
+    "note": "Groceries",
+    "date": "2025-08-04"
+  },
+  {
+    "id": 60,
+    "amount": 282,
+    "category": "other",
+    "note": "Gift",
+    "date": "2025-08-05"
+  },
+  {
+    "id": 61,
+    "amount": 811,
+    "category": "shopping",
+    "note": "Groceries",
+    "date": "2025-08-05"
+  },
+  {
+    "id": 62,
+    "amount": 861,
+    "category": "other",
+    "note": "Miscellaneous",
+    "date": "2025-08-06"
+  },
+  {
+    "id": 63,
+    "amount": 328,
+    "category": "other",
+    "note": "Gift",
+    "date": "2025-08-06"
+  },
+  {
+    "id": 64,
+    "amount": 44,
+    "category": "bills",
+    "note": "Phone recharge",
+    "date": "2025-08-06"
+  },
+  {
+    "id": 65,
+    "amount": 600,
+    "category": "food",
+    "note": "Dinner",
+    "date": "2025-08-07"
+  },
+  {
+    "id": 66,
+    "amount": 190,
+    "category": "bills",
+    "note": "Internet",
+    "date": "2025-08-08"
+  },
+  {
+    "id": 67,
+    "amount": 108,
+    "category": "other",
+    "note": "Donation",
+    "date": "2025-08-08"
+  },
+  {
+    "id": 68,
+    "amount": 763,
+    "category": "bills",
+    "note": "Phone recharge",
+    "date": "2025-08-09"
+  },
+  {
+    "id": 69,
+    "amount": 506,
+    "category": "transport",
+    "note": "Taxi",
+    "date": "2025-08-10"
+  },
+  {
+    "id": 70,
+    "amount": 79,
+    "category": "transport",
+    "note": "Fuel",
+    "date": "2025-08-10"
+  },
+  {
+    "id": 71,
+    "amount": 829,
+    "category": "bills",
+    "note": "Internet",
+    "date": "2025-08-10"
+  },
+  {
+    "id": 72,
+    "amount": 801,
+    "category": "transport",
+    "note": "Metro",
+    "date": "2025-08-10"
+  },
+  {
+    "id": 73,
+    "amount": 776,
+    "category": "food",
+    "note": "Dinner",
+    "date": "2025-08-11"
+  },
+  {
+    "id": 74,
+    "amount": 130,
+    "category": "food",
+    "note": "Breakfast",
+    "date": "2025-08-11"
+  },
+  {
+    "id": 75,
+    "amount": 561,
+    "category": "other",
+    "note": "Gift",
+    "date": "2025-08-11"
+  },
+  {
+    "id": 76,
+    "amount": 301,
+    "category": "entertainment",
+    "note": "Movie",
+    "date": "2025-08-12"
+  },
+  {
+    "id": 77,
+    "amount": 730,
+    "category": "shopping",
+    "note": "Clothes",
+    "date": "2025-08-12"
+  },
+  {
+    "id": 78,
+    "amount": 522,
+    "category": "food",
+    "note": "Lunch",
+    "date": "2025-08-12"
+  },
+  {
+    "id": 79,
+    "amount": 655,
+    "category": "bills",
+    "note": "Phone recharge",
+    "date": "2025-08-12"
+  },
+  {
+    "id": 80,
+    "amount": 572,
+    "category": "other",
+    "note": "Gift",
+    "date": "2025-08-13"
+  },
+  {
+    "id": 81,
+    "amount": 239,
+    "category": "entertainment",
+    "note": "Streaming",
+    "date": "2025-08-13"
+  },
+  {
+    "id": 82,
+    "amount": 307,
+    "category": "food",
+    "note": "Coffee",
+    "date": "2025-08-14"
+  },
+  {
+    "id": 83,
+    "amount": 236,
+    "category": "shopping",
+    "note": "Shoes",
+    "date": "2025-08-14"
+  },
+  {
+    "id": 84,
+    "amount": 538,
+    "category": "shopping",
+    "note": "Groceries",
+    "date": "2025-08-14"
+  },
+  {
+    "id": 85,
+    "amount": 367,
+    "category": "entertainment",
+    "note": "Concert",
+    "date": "2025-08-14"
+  },
+  {
+    "id": 86,
+    "amount": 164,
+    "category": "shopping",
+    "note": "Groceries",
+    "date": "2025-08-15"
+  },
+  {
+    "id": 87,
+    "amount": 684,
+    "category": "bills",
+    "note": "Internet",
+    "date": "2025-08-15"
+  },
+  {
+    "id": 88,
+    "amount": 929,
+    "category": "entertainment",
+    "note": "Games",
+    "date": "2025-08-15"
+  },
+  {
+    "id": 89,
+    "amount": 467,
+    "category": "bills",
+    "note": "Phone recharge",
+    "date": "2025-08-15"
+  },
+  {
+    "id": 90,
+    "amount": 706,
+    "category": "food",
+    "note": "Coffee",
+    "date": "2025-08-16"
+  },
+  {
+    "id": 91,
+    "amount": 937,
+    "category": "shopping",
+    "note": "Shoes",
+    "date": "2025-08-16"
+  },
+  {
+    "id": 92,
+    "amount": 738,
+    "category": "bills",
+    "note": "Phone recharge",
+    "date": "2025-08-17"
+  },
+  {
+    "id": 93,
+    "amount": 31,
+    "category": "other",
+    "note": "Miscellaneous",
+    "date": "2025-08-17"
+  },
+  {
+    "id": 94,
+    "amount": 962,
+    "category": "shopping",
+    "note": "Stationery",
+    "date": "2025-08-17"
+  },
+  {
+    "id": 95,
+    "amount": 883,
+    "category": "other",
+    "note": "Donation",
+    "date": "2025-08-17"
+  },
+  {
+    "id": 96,
+    "amount": 755,
+    "category": "shopping",
+    "note": "Shoes",
+    "date": "2025-08-18"
+  },
+  {
+    "id": 97,
+    "amount": 721,
+    "category": "transport",
+    "note": "Fuel",
+    "date": "2025-08-18"
+  },
+  {
+    "id": 98,
+    "amount": 77,
+    "category": "shopping",
+    "note": "Clothes",
+    "date": "2025-08-18"
+  },
+  {
+    "id": 99,
+    "amount": 816,
+    "category": "other",
+    "note": "Donation",
+    "date": "2025-08-19"
+  },
+  {
+    "id": 100,
+    "amount": 197,
+    "category": "food",
+    "note": "Dinner",
+    "date": "2025-08-19"
+  },
+  {
+    "id": 101,
+    "amount": 650,
+    "category": "shopping",
+    "note": "Clothes",
+    "date": "2025-08-20"
+  },
+  {
+    "id": 102,
+    "amount": 507,
+    "category": "shopping",
+    "note": "Groceries",
+    "date": "2025-08-21"
+  },
+  {
+    "id": 103,
+    "amount": 940,
+    "category": "transport",
+    "note": "Metro",
+    "date": "2025-08-22"
+  },
+  {
+    "id": 104,
+    "amount": 708,
+    "category": "other",
+    "note": "Miscellaneous",
+    "date": "2025-08-23"
+  },
+  {
+    "id": 105,
+    "amount": 783,
+    "category": "bills",
+    "note": "Electricity",
+    "date": "2025-08-23"
+  },
+  {
+    "id": 106,
+    "amount": 275,
+    "category": "transport",
+    "note": "Fuel",
+    "date": "2025-08-23"
+  },
+  {
+    "id": 107,
+    "amount": 504,
+    "category": "food",
+    "note": "Dinner",
+    "date": "2025-08-24"
+  },
+  {
+    "id": 108,
+    "amount": 850,
+    "category": "other",
+    "note": "Donation",
+    "date": "2025-08-25"
+  },
+  {
+    "id": 109,
+    "amount": 990,
+    "category": "bills",
+    "note": "Internet",
+    "date": "2025-08-25"
+  },
+  {
+    "id": 110,
+    "amount": 386,
+    "category": "transport",
+    "note": "Taxi",
+    "date": "2025-08-25"
+  },
+  {
+    "id": 111,
+    "amount": 633,
+    "category": "food",
+    "note": "Breakfast",
+    "date": "2025-08-25"
+  },
+  {
+    "id": 112,
+    "amount": 592,
+    "category": "food",
+    "note": "Snacks",
+    "date": "2025-08-26"
+  },
+  {
+    "id": 113,
+    "amount": 767,
+    "category": "transport",
+    "note": "Bus fare",
+    "date": "2025-08-26"
+  },
+  {
+    "id": 114,
+    "amount": 181,
+    "category": "other",
+    "note": "Miscellaneous",
+    "date": "2025-08-27"
+  },
+  {
+    "id": 115,
+    "amount": 112,
+    "category": "other",
+    "note": "Donation",
+    "date": "2025-08-27"
+  },
+  {
+    "id": 116,
+    "amount": 439,
+    "category": "other",
+    "note": "Donation",
+    "date": "2025-08-28"
+  },
+  {
+    "id": 117,
+    "amount": 349,
+    "category": "food",
+    "note": "Lunch",
+    "date": "2025-08-28"
+  },
+  {
+    "id": 118,
+    "amount": 221,
+    "category": "transport",
+    "note": "Bus fare",
+    "date": "2025-08-28"
+  },
+  {
+    "id": 119,
+    "amount": 489,
+    "category": "food",
+    "note": "Lunch",
+    "date": "2025-08-29"
+  },
+  {
+    "id": 120,
+    "amount": 451,
+    "category": "bills",
+    "note": "Water",
+    "date": "2025-08-29"
+  },
+  {
+    "id": 121,
+    "amount": 50,
+    "category": "other",
+    "note": "Gift",
+    "date": "2025-08-29"
+  },
+  {
+    "id": 122,
+    "amount": 573,
+    "category": "food",
+    "note": "Breakfast",
+    "date": "2025-08-30"
+  },
+  {
+    "id": 123,
+    "amount": 324,
+    "category": "entertainment",
+    "note": "Games",
+    "date": "2025-08-30"
+  },
+  {
+    "id": 124,
+    "amount": 627,
+    "category": "food",
+    "note": "Snacks",
+    "date": "2025-08-30"
+  },
+  {
+    "id": 125,
+    "amount": 194,
+    "category": "transport",
+    "note": "Metro",
+    "date": "2025-08-31"
+  },
+  {
+    "id": 126,
+    "amount": 190,
+    "category": "shopping",
+    "note": "Clothes",
+    "date": "2025-08-31"
+  },
+  {
+    "id": 127,
+    "amount": 272,
+    "category": "other",
+    "note": "Miscellaneous",
+    "date": "2025-09-01"
+  },
+  {
+    "id": 128,
+    "amount": 40,
+    "category": "transport",
+    "note": "Taxi",
+    "date": "2025-09-01"
+  },
+  {
+    "id": 129,
+    "amount": 357,
+    "category": "other",
+    "note": "Gift",
+    "date": "2025-09-02"
+  },
+  {
+    "id": 130,
+    "amount": 177,
+    "category": "shopping",
+    "note": "Groceries",
+    "date": "2025-09-02"
+  },
+  {
+    "id": 131,
+    "amount": 517,
+    "category": "entertainment",
+    "note": "Games",
+    "date": "2025-09-02"
+  },
+  {
+    "id": 132,
+    "amount": 832,
+    "category": "bills",
+    "note": "Electricity",
+    "date": "2025-09-02"
+  },
+  {
+    "id": 133,
+    "amount": 165,
+    "category": "entertainment",
+    "note": "Concert",
+    "date": "2025-09-03"
+  },
+  {
+    "id": 134,
+    "amount": 872,
+    "category": "bills",
+    "note": "Internet",
+    "date": "2025-09-04"
+  },
+  {
+    "id": 135,
+    "amount": 406,
+    "category": "food",
+    "note": "Snacks",
+    "date": "2025-09-05"
+  },
+  {
+    "id": 136,
+    "amount": 475,
+    "category": "entertainment",
+    "note": "Concert",
+    "date": "2025-09-05"
+  },
+  {
+    "id": 137,
+    "amount": 697,
+    "category": "other",
+    "note": "Miscellaneous",
+    "date": "2025-09-06"
+  },
+  {
+    "id": 138,
+    "amount": 580,
+    "category": "other",
+    "note": "Gift",
+    "date": "2025-09-06"
+  },
+  {
+    "id": 139,
+    "amount": 417,
+    "category": "shopping",
+    "note": "Shoes",
+    "date": "2025-09-06"
+  },
+  {
+    "id": 140,
+    "amount": 606,
+    "category": "other",
+    "note": "Miscellaneous",
+    "date": "2025-09-07"
+  },
+  {
+    "id": 141,
+    "amount": 853,
+    "category": "other",
+    "note": "Donation",
+    "date": "2025-09-08"
+  },
+  {
+    "id": 142,
+    "amount": 949,
+    "category": "transport",
+    "note": "Metro",
+    "date": "2025-09-08"
+  },
+  {
+    "id": 143,
+    "amount": 243,
+    "category": "food",
+    "note": "Snacks",
+    "date": "2025-09-08"
+  },
+  {
+    "id": 144,
+    "amount": 712,
+    "category": "other",
+    "note": "Miscellaneous",
+    "date": "2025-09-09"
+  },
+  {
+    "id": 145,
+    "amount": 390,
+    "category": "transport",
+    "note": "Fuel",
+    "date": "2025-09-09"
+  },
+  {
+    "id": 146,
+    "amount": 859,
+    "category": "bills",
+    "note": "Phone recharge",
+    "date": "2025-09-09"
+  },
+  {
+    "id": 147,
+    "amount": 425,
+    "category": "bills",
+    "note": "Internet",
+    "date": "2025-09-10"
+  },
+  {
+    "id": 148,
+    "amount": 723,
+    "category": "bills",
+    "note": "Internet",
+    "date": "2025-09-10"
+  },
+  {
+    "id": 149,
+    "amount": 561,
+    "category": "other",
+    "note": "Gift",
+    "date": "2025-09-10"
+  }
+]
